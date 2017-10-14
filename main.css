@@ -4,8 +4,24 @@ p {
 body{
   font-family: "Courier New", Courier, monospace;
 }
-h1 {
+
+#header {
   font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
   background-color: #5aceb5;
   color: #ffffff;
+}
+
+#content {
+  width: 80%;
+}
+a {
+  color: #2242e5;
+}
+
+.color {
+  font-weight: bold;
+  color: #1f843a;
 }
